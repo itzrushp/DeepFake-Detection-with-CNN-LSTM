@@ -320,9 +320,8 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 📬 Contact & Support
 
-**Rushikesh** | Full-Stack ML Engineer
 - **GitHub**: [@itzrushp](https://github.com/itzrushp)
-- **Email**: rushikesh@example.com (update with actual)
+- **Email**: roshanpandit.dev@gmail.com
 
 **Project Repository**: [https://github.com/itzrushp/DeepFake-Detection-with-CNN-LSTM](https://github.com/itzrushp/DeepFake-Detection-with-CNN-LSTM)
 
@@ -338,4 +337,4 @@ If you found this project useful, please star ⭐ the repo!
 
 ---
 
-**Made with ❤️ by Rushikesh | 2025**
+**Made with ❤️ by Rush | 2025**
